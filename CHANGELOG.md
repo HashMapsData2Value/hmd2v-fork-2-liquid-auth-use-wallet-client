@@ -1,3 +1,10 @@
+# [1.0.0-canary.2](https://github.com/hashmapsdata2value/hmd2v-fork-2-liquid-auth-use-wallet-client/compare/v1.0.0-canary.1...v1.0.0-canary.2) (2024-09-25)
+
+
+### Bug Fixes
+
+* change name ([4ed5d57](https://github.com/hashmapsdata2value/hmd2v-fork-2-liquid-auth-use-wallet-client/commit/4ed5d57f39200ff28a4812c6288775689f229b5f))
+
 # 1.0.0-canary.1 (2024-09-25)
 
 
