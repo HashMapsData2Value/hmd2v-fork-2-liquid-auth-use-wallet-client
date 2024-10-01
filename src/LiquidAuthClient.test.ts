@@ -3,8 +3,8 @@ import { LiquidAuthClient } from './LiquidAuthClient';
 import { SignalClient } from '@algorandfoundation/liquid-client';
 import { LiquidOptions } from './interfaces.js';
 import { JSDOM } from 'jsdom';
-import algosdk, { decodeSignedTransaction, Transaction } from 'algosdk';
-import { decode, encode } from 'cbor-x';
+import { Transaction } from 'algosdk';
+import { encode } from 'cbor-x';
 import { fromBase64Url, toBase64URL } from '@algorandfoundation/provider';
 
 // Setup jsdom
