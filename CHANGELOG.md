@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/hashmapsdata2value/hmd2v-fork-2-liquid-auth-use-wallet-client/compare/v1.0.0...v1.0.1) (2024-10-01)
+
+
+### Bug Fixes
+
+* removes .js endings and adds tsc-alias ([8cf37ec](https://github.com/hashmapsdata2value/hmd2v-fork-2-liquid-auth-use-wallet-client/commit/8cf37ec0f6a24b384617f5d00f2545f159fe1ab5))
+
 ## [1.0.1-canary.1](https://github.com/hashmapsdata2value/hmd2v-fork-2-liquid-auth-use-wallet-client/compare/v1.0.0...v1.0.1-canary.1) (2024-10-01)
 
 
